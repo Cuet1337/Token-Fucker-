@@ -14,6 +14,7 @@ Open Command Prompth
 Copy paste this
 
 pip install requests
+
 pip install colorama
 
 Reopen the program
