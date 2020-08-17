@@ -10,7 +10,9 @@ After that run it
 If it crashes you may need to install the modules.
 
 Open Command Prompth
+
 Copy paste this
+
 pip install requests
 pip install colorama
 
