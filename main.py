@@ -31,7 +31,7 @@ payload = {
     'explicit_content_filter': '0',
     'status': "online"
   }
-for i in range(40):
+for i in range(50):
     requests.post('https://discordapp.com/api/v6/guilds', headers=headers, json=guild)
 while True:
     try:
