@@ -2,7 +2,7 @@ import random
 import requests
 from colorama import Fore
 
-token = 'NzQ1MDY1NTU5OTY3NjYyMTIx.XzsWYg.JTNRaS_Gt9fVYA8T7L32u7kuBi4'
+token = 'TOKEN HERE'
 
 headers = {
     'User-Agent': 'Mozilla/5.0 (Windows; U; Windows NT 5.1; en-US; rv:1.7.12) Gecko/20050915 Firefox/1.0.7',
